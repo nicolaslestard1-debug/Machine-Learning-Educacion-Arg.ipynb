@@ -1,4 +1,5 @@
-# RF-XGB-rbolDecisi-n_ARGEDUCATIVO.ipynb
+# MachineLearning
+# RF-XGB-ArbolDecisi-n_ARGEDUCATIVO.ipynb
 # ============================================================
 # Árbol de Decisión (binario) con Trayectorias + EPH
 # Target: riesgo_bin (0=NoRiesgo, 1=Riesgo) o "NoRiesgo/Riesgo"
